@@ -1,2 +1,2 @@
 # spring_ldap
-Spring Boot to access LDAP
+Spring Boot to access LDAP using RESTful services
